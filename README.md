@@ -1,5 +1,5 @@
 # IGClone_SQL_Project
-This project is based on IGClone database provided by Odin School (Data Science BootCamp). create_igclone.sql contains database and table creation queries.
+This project is based on IGClone database provided by Odin School (Data Science BootCamp). ig_clone_data.sql contains database and table creation queries.
 
 Different data maipulation queries were performed by utilizing the concepts of advance joins, CTEs, subqueries, window functions, views and temporary tables.
 
